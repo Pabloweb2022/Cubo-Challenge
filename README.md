@@ -41,9 +41,7 @@ O desafio é disponibilizado acessando o seguinte link: https://github.com/cubon
 
 ## :computer: Layout Desenvolvido
 
-![screencapture-case-cubo-pablo-surge-sh-2022-08-17-15_01_36](https://user-images.githubusercontent.com/84820536/185210630-b01c60e5-6710-400a-b607-97c2568df7ee.png)
-
-
+![screencapture-case-cubo-pablo-surge-sh-2022-08-24-16_59_39](https://user-images.githubusercontent.com/84820536/186511959-65d47b6d-4a89-46b2-a450-5ba8008e3a93.png)
 
 
 ## 📁 Acessar Projeto Localmente
