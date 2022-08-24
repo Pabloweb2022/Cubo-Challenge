@@ -1,4 +1,4 @@
-# :scroll: Cubo Challenge
+<h1 align ="center" > :scroll: Cubo Challenge </h1>
 
 <p align="center">
   <img src="https://cubo.network/assets/images/cubo.svg" width="200">
