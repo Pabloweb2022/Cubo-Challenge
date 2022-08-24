@@ -1,1 +1,105 @@
-# Cuboi-Challenge
+# :scroll: Cubo Challenge
+
+O objetivo deste desafio é avaliar o domínio das habilidades FullStack, a organização, estilo, e boas práticas com código, criação de APIs, conhecimento de frameworks e tecnologias.
+
+O desafio é disponibilizado acessando o seguinte link: https://github.com/cubonetwork/fullstack-challenge.
+
+## :link: Link Surge 
+- Acesse o site clicando no link http://case-cubo-pablo.surge.sh
+
+## :link: Link Documentação
+- Acesse a documentação clicando no link https://documenter.getpostman.com/view/20353382/VUqmvf1Q
+
+
+## ⚙️ Funcionalidades
+✅ Todos os campos do formulário são obrigatórios;
+
+✅ Os dados enviados pelo formulário são salvos no banco de dados;
+
+✅ APIs para enviar e receber os dados;
+
+✅ Representar tabela por meio de um gráfico dinâmico.
+
+## :hammer_and_wrench: Ferramentas 
+
+### 🍮 Frontend
+- [React](https://pt-br.reactjs.org/);
+- [Axios](https://axios-http.com/ptbr/docs/intro/);
+- [Styled-components](https://styled-components.com/docs/);
+- [React Google Charts](https://www.react-google-charts.com/)
+- [react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2)
+
+### 🤵 Backend
+- [Node.js](https://nodejs.dev/)
+- [Typescript](https://www.typescriptlang.org/docs/);
+- [Express](http://expressjs.com/);
+- [Knex](http://knexjs.org/guide/);
+- [UUID](https://www.npmjs.com/package/uuid);
+- [Dotenv](https://www.npmjs.com/package/dotenv);
+- [MySQL](https://dev.mysql.com/doc/);
+
+
+## :computer: Layout Desenvolvido
+
+![screencapture-case-cubo-pablo-surge-sh-2022-08-17-15_01_36](https://user-images.githubusercontent.com/84820536/185210630-b01c60e5-6710-400a-b607-97c2568df7ee.png)
+
+
+
+
+## 📁 Acessar Projeto Localmente
+
+- *Clonar o repositório:*
+
+```
+$ git clone LinkDoRepositorio
+```
+
+- *Acessar o projeto backend:*
+
+```
+$ cd back-end
+```
+
+- *Instalar dependências do backend:*
+
+```
+$ npm install
+```
+
+- *Executar projeto back-end:*
+
+```
+$ npm start
+```
+
+- *Executar o projeto back-end em ambiente de desenvolvimento:*
+
+```
+$ npm run dev
+```
+- *Instalar dependências do front-end:*
+
+```
+$ npm install
+```
+
+- *Muda URL base:*
+
+Caso queira testar toda a aplicação localmente, é necessário alterar a baseURL utilizada para conectar os projetos frontend e o backend. Para isso siga o caminho
+
+ ```src/ -> request/ -> requests.ts```
+Subistitua a linha:
+```
+6 const baseURL = 'http://localhost:3003/'
+```
+por:
+```
+const baseURL = 'http://localhost:3003/'
+```
+- *Executar projeto front-end:*
+```
+$ npm start
+```
+## 👨‍💻 Desenvolvedor
+
+<img src="https://avatars.githubusercontent.com/u/84820536?v=4" width=115> <br><sub>Pablo Gomes dos Santos</sub>
