@@ -1,6 +1,6 @@
 # :scroll: Cubo Challenge
 
-<center>![cubo](https://user-images.githubusercontent.com/84820536/186513381-df57ac08-76fd-41e7-b45f-8bee801fd46e.svg) <center/>
+#                         ![cubo](https://user-images.githubusercontent.com/84820536/186513381-df57ac08-76fd-41e7-b45f-8bee801fd46e.svg)
 
 
 Projeto Full stack realizado como case no curso da Labenu. Esse repositório conta com a parte de front end do projeto, no qual foi implementado usando a API construída pelo back, com dois métodos integrados para criação de usuário e consulta de dados. O usuário consegue criar seu cadastro e sua participação através de um formulário, e ao mesmo tempo que insere essas informações, a tabela e gráfico do app se atualiza.
