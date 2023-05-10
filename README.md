@@ -4,7 +4,7 @@
   <img src="https://cubo.network/assets/images/cubo.svg" width="200">
 </p>
 
-Projeto Full stack realizado como case no curso da Labenu. Esse repositório conta com a parte de front end do projeto, no qual foi implementado usando a API construída pelo back, com dois métodos integrados para criação de usuário e consulta de dados. O usuário consegue criar seu cadastro e sua participação através de um formulário, e ao mesmo tempo que insere essas informações, a tabela e gráfico do app se atualiza.
+Projeto Full stack realizado como case no curso da Labenu. Esse repositório conta com a parte de front end do projeto, no qual foi implementado usando a API construída em Node.js, com dois métodos integrados para criação de usuário e consulta de dados. O usuário consegue criar seu cadastro e sua participação através de um formulário, e ao mesmo tempo que insere essas informações, a tabela e gráfico do app se atualiza.
 
 O desafio é disponibilizado acessando o seguinte link: https://github.com/cubonetwork/fullstack-challenge.
 
